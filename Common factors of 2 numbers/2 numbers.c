@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 main()
+
 {
   int i, j;
   dataType factors[1000];
